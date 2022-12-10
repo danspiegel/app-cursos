@@ -6,7 +6,7 @@
   "dependencies": {
     "body-parser": "^1.17.1",
     "ejs": "^2.5.6",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "express-load": "^1.1.15",
     "express-namespace": "^0.1.1",
     "jsonwebtoken": "^7.3.0",
