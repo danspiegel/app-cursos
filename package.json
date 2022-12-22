@@ -9,7 +9,7 @@
     "express": "^4.15.2",
     "express-load": "^1.1.15",
     "express-namespace": "^0.1.1",
-    "jsonwebtoken": "^7.3.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^4.9.3",
     "passport-jwt": "^2.2.1",
     "passport": "^0.3.2"
